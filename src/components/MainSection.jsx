@@ -1,11 +1,12 @@
+import DiceContainer from "./DiceContainer"
+import Button from "./Button/Button"
+
 export default function MainSection() {
 
   return (
     <section>
-      <div>
-        Here goes dice
-      </div>
-      <button>roll</button>
+      <DiceContainer />
+      <Button>Roll</Button>
     </section>
   )
 }

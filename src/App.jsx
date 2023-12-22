@@ -7,7 +7,18 @@ import MainContainer from './components/MainContainer'
 function App() {
 
   return (
-    <div>
+    <div
+      style={
+        {
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "100vh",
+          paddingBottom: "30em",
+          backgroundColor:" #0B2434"
+        }
+      }
+    >
       <MainContainer />
     </div>
   )

@@ -1,0 +1,11 @@
+li {
+  border-radius: 3px;
+  background-color: #fff;
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+}

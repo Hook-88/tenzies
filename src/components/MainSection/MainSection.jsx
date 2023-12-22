@@ -1,5 +1,5 @@
-import DiceContainer from "./DiceContainer"
-import Button from "./Button/Button"
+import DiceContainer from "../DiceContainer/DiceContainer"
+import Button from "../Button/Button"
 
 export default function MainSection() {
 

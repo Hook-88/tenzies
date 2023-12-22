@@ -1,5 +1,5 @@
 import "./DiceContainer.css"
-import Die from "./Die/Die"
+import Die from "../Die/Die"
 
 export default function DiceContainer() {
 
